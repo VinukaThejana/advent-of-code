@@ -1,0 +1,26 @@
+
+// Opponent
+A, X - Rock
+B, Y - Paper
+C, Z - Scissors
+
+// Scores for object - Must give regardless of the match state
+Rock - 1
+Paper - 2
+Scissors - 3
+
+// Socres according to the match state
+Win - 6
+Draw - 3
+Loose - 0
+
+
+// According to the second half of the riddle
+// X, Y and Z is no longer valid according to the above logic
+// According to new information
+
+X - Loose
+Y - Draw
+Z - Win
+
+
